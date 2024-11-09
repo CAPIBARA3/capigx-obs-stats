@@ -1,0 +1,44 @@
+Name,Space agency,Launch date,Terminated,Location,Ref(s),Type,Full Name
+SAS-A,NASA,12/12/1970,01/03/1973,Earth orbit (531–572 km),[35][36][37],X-ray,"Uhuru (Small Astronomy Satellite 1, SAS-A)"
+ANS,SRON,30/08/1974,01/06/1976,Earth orbit (266–1176 km),[38][39],X-ray,Astronomical Netherlands Satellite (ANS)
+Ariel V,SRC & NASA,15/10/1974,14/03/1980,Earth orbit (520 km),[40][41],X-ray,Ariel V
+Aryabhata,ISRO,19/04/1975,23/04/1975,Earth orbit (563–619 km),[42],X-ray,Aryabhata
+SAS-C,NASA,07/05/1975,01/04/1979,Earth orbit (509–516 km),[43][44][45],X-ray,Small Astronomy Satellite 3 (SAS-C)
+Cos-B,ESA,09/08/1975,25/04/1982,"Earth orbit (339.6–99,876 km)",[6][7][8],X-ray,Cos-B
+CORSA,ISAS,04/02/1976,04/02/1976,Failed launch,[46][47],X-ray,Cosmic Radiation Satellite (CORSA)
+HEAO 1,NASA,12/08/1977,09/01/1979,Earth orbit (445 km),[48][49][50],X-ray,High Energy Astronomy Observatory 1(HEAO 1)
+HEAO 2,NASA,13/11/1978,26/04/1981,Earth orbit (465–476 km),[51][52],X-ray,Einstein Observatory (HEAO 2)
+CORSA-b,ISAS,21/02/1979,16/04/1985,Earth orbit (421–433 km),[53][54][55],X-ray,Hakucho (CORSA-b)
+HEAO 3,NASA,20/09/1979,29/05/1981,Earth orbit (486.4–504.9 km),[9][10][11],X-ray,High Energy Astronomy Observatory 3(HEAO 3)
+Astro-B,ISAS,20/02/1983,19/01/1989,Earth orbit (489–503 km),[56][57][58],X-ray,Tenma (Astro-B)
+Astron,IKI,23/03/1983,01/06/1989,"Earth orbit (2,000–200,000 km)",[59][60][61],X-ray,Astron
+EXOSAT,ESA,26/05/1983,08/04/1986,"Earth orbit (347–191,709 km)",[62][63][64],X-ray,EXOSAT
+Astro-C,ISAS,05/02/1987,01/11/1991,Earth orbit (517–708 km),[65][66][67],X-ray,Ginga (Astro-C)
+Granat,CNRS & IKI,01/12/1989,25/05/1999,"Earth orbit (2,000–200,000 km)",[12][13][14],X-ray,Granat
+ROSAT,NASA & DLR,01/06/1990,12/02/1999,Formerly Earth orbit (580km),[69][70][71],X-ray,ROSAT
+Astro 1,NASA,02/12/1990,11/12/1990,Earth orbit (500 km),[72][73],X-ray,Broad Band X-ray Telescope / Astro 1
+ASCA-Astro-D,ISAS & NASA,20/02/1993,02/03/2001,Earth orbit (523.6–615.3 km),[74][75],X-ray,"Advanced Satellite for Cosmology and Astrophysics(ASCA, Astro-D)"
+Alexis,LANL,25/04/1993,01/01/2005,Earth orbit (749–844 km),[76][77][78],X-ray,Array of Low Energy X-ray Imaging Sensors(Alexis)
+RXTE,NASA,30/12/1995,03/01/2012,Earth orbit (409 km),[79][80][81],X-ray,Rossi X-ray Timing Explorer (RXTE)
+BeppoSAX,ASI,30/04/1996,30/04/2002,Earth orbit (575–594 km),[82][83][84],X-ray,BeppoSAX
+ABRIXAS,DLR,28/04/1999,01/07/1999,Earth orbit (549–598 km),[85][86][87],X-ray,A Broadband Imaging X-ray All-sky Survey(ABRIXAS)
+Chandra,NASA,23/07/1999,01/01/2001,"Earth orbit (9,942–140,000 km)",[88][89],X-ray,Chandra X-ray Observatory
+XMM-Newton,ESA,10/12/1999,01/01/2001,"Earth orbit (7,365–114,000 km)",[90][91],X-ray,XMM-Newton
+HETE 2,NASA,09/10/2000,01/03/2008,Earth orbit (590–650 km),[21][22][92],X-ray,High Energy Transient Explorer 2(HETE 2)
+INTEGRAL,ESA,17/10/2002,01/01/2001,"Earth orbit (639–153,000 km)",[24][25],X-ray,International Gamma Ray Astrophysics Laboratory(INTEGRAL)
+Swift,NASA,20/11/2004,01/01/2001,Earth orbit (585–604 km),[26][27],X-ray,Neil Gehrels Swift Observatory
+Astro-E2,JAXA & NASA,10/07/2005,02/09/2015,Earth orbit (550 km),[93][94],X-ray,Suzaku (Astro-E2)
+AGILE,ISA,23/04/2007,18/01/2024,Earth orbit (524–553 km),[28][29],X-ray,Astrorivelatore Gamma ad Immagini Leggero(AGILE)
+NuSTAR,NASA,13/06/2012,01/01/2001,Earth orbit (603.5 km),[95][96],X-ray,Nuclear Spectroscopic Telescope Array(NuSTAR)
+AstroSat,ISRO,28/09/2015,01/01/2001,Earth orbit (600–650 km),[97][98][99],X-ray,AstroSat
+Astro-H,JAXA,17/02/2016,28/04/2016,Earth orbit (575 km),[100][101][102],X-ray,Hitomi (Astro-H)
+Mikhailo Lomonosov,Moscow State University,28/04/2016,30/06/2018,Earth orbit (478–493 km),[103][104],X-ray,Mikhailo Lomonosov
+NICER,NASA,07/06/2017,01/01/2001,International Space Station,[105],X-ray,Neutron Star Interior Composition Explorer (NICER)
+HXMT,CNSA & CAS,14/06/2017,01/01/2001,Low Earth orbit (545–554.1 km),[106],X-ray,Hard X-ray Modulation Telescope (HXMT)
+Spektr-RG,RSRI & MPE,13/07/2019,01/01/2001,Sun-Earth L2,[107],X-ray,Spektr-RG
+IXPE,NASA,09/12/2021,01/01/2001,Earth orbit (540 km),[108][109],X-ray,Imaging X-ray Polarimetry Explorer (IXPE)
+LEIA,CSA,27/07/2022,01/01/2001,Low Earth orbit,[110][111],X-ray,Lobster Eye Imager for Astronomy(LEIA)
+XRISM,JAXA & NASA,07/09/2023,01/01/2001,Earth orbit (550 km),[112][113],X-ray,X-ray Imaging and Spectroscopy Mission (XRISM)
+XPoSat,ISRO & RRI,01/01/2024,01/01/2001,Earth orbit (638–653 km),[114][115],X-ray,X-ray Polarimeter Satellite (XPoSat)
+Einstein Probe,CAS & ESA & MPE,09/01/2024,01/01/2001,Earth orbit (581–593 km),[116],X-ray,Einstein Probe
+SVOM,CNSA & CNES,22/06/2024,01/01/2001,Earth orbit (625–625 km),[33][117],X-ray,Space Variable Objects Monitor(SVOM)
